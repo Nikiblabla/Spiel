@@ -1,0 +1,20 @@
+body{
+	text-align: center;
+	background-image: url(s.jpg);
+	background-size: contain;
+
+}
+.gm{
+  	
+	width: 40%;
+	height: 300px;
+	margin: 0 auto;
+	margin-top: 230px;
+	background-image: url();
+	background-size: unset;
+	color: white;
+	font-style: italic;
+	font-size: 20px;
+}
+
+border: 3px blueviolet solid;
